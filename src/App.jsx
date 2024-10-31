@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Player from "./components/PLayer";
+import Player from "./components/Player";
 import Log from "./components/Log";
 import Gameboard from "./components/Gameboard"
 import { WINING_COMBINATIONS } from "./App";
